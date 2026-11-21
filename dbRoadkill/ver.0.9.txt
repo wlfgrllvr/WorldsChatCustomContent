@@ -1,11 +1,12 @@
-VERSION 0.2β 
+VERSION 0.9
 
 R O A D K I L L 
 Tiny map with a deer in it.
 Work in progress while Shaper kicks my butt.
 
 CHANGELOG
--music
+0.02b - music
+0.9 - all textures .cmp
 
 Personal Site
 https://deer.skin/ect/worlds
